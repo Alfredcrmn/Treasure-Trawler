@@ -1,0 +1,61 @@
+4to de primaria
+MATE
+1. Cuanto es (fraccion1) + (fraccion2)? #es importante que tengan denominador comun (es importante que la fraccion tenga el mismo denominador)
+r1=
+2. Cuantos metros hay en un kilometro?
+r2=1000
+3. Reduce 48m-25m a terminos semejantes:
+r3=23m
+4. Cuanto es (random_num)x^2 si x=(random_num2)
+r4=(random_num2)**2 *(random_num)
+5. (name) quiere comprar (random_num) naranjas. Si (random_num2 menor que y divisible entre random_num ) cuesta (dinero), cuanto costaran (random_num) naranjas?
+r4=
+6. (name) tenia $(random price mayor que 100) y gasto $(random price 2 mayor que 100 y menor que random price), cuanto dinero le quedo?
+r6=random_price2-random_price1
+7. Cuanto es (random num mayor que 100) mas (random num 2 mayor que 100 y menor que random num)
+r7=random_num2+random_num1
+8. A un triangulo con 2 lados iguales se le llama
+r8= triángulo isoseles
+9. A un triangulo con 3 lados desiguales se le llama
+r9= triángulo escaleno
+10. A un triangulo con 3 lados iguales se le llama
+r10= triángulo equilátero
+
+
+ESPANOL
+1. Palabras que nombran objetos, personas, animales, cosas
+r1= sustantivos
+2. Palabras que definen acciones:
+r2.e=verbos
+3. Cual es la ortografia correcta para la siguiente palabra?:
+r3.e=habían
+4. Cual es la ortografia correcta para la siguiente palabra?:
+r4.e=corrían 
+5. Cual es la ortografia correcta para la siguiente palabra?:
+r5.e=compraré
+6. Cual es la ortografia correcta para la siguiente palabra?:
+r6.e=hábil
+7. Cual es la ortografia correcta para la siguiente palabra?:
+r7.e=ombligo
+8. Cual es la ortografia correcta para la siguiente palabra?:
+r8.e=paralelo
+9. Cual es un antónimo de ir?
+r9.e=venir
+10. Cual es un antónimo de feliz?
+r10.e=triste
+11. Cual es un antónimo de limpio?
+r11.e=sucio
+12. Cual es un sinónimo de feliz?
+r12.e=contento
+12. Cual es un sinónimo de habitación?
+r12.e=vivienda
+
+5nto de primaria
+MATE
+1. Tengo (randomnum entre 2-10) cajas, En cada caja tengo (randomnum 2 entre 2-10) telefonos, cuantos telefonos tengo en total?
+r1_5m=randomnum*randomnum2
+2.Cuanto es (fraccion1) + (fraccion2)? #es importante que tengan denominador comun (es importante que la fraccion no tenga el mismo denominador)
+r2: fraccion1+fraccion2
+3. Que pesa mas: 5 kilos de rocas o 5 kilos de lechuga
+r3: pesan lo mismo
+4. 

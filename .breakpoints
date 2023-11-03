@@ -1,0 +1,28 @@
+{
+  "files": {
+    ".run": [
+      {
+        "id": "19aed2d7-5454-4e8e-82fa-ba2e2086a2b6",
+        "line": 2,
+        "version": 18,
+        "index": 16
+      }
+    ],
+    "kinder.py": [
+      {
+        "id": "6e01389d-1f18-4392-9f5c-527d26fcaf71",
+        "line": 1,
+        "version": 4159,
+        "index": 0
+      }
+    ],
+    "miniPreg/PregCG.txt": [
+      {
+        "id": "8e82e339-f7b2-4c7e-a306-226059ecc37a",
+        "line": 53,
+        "version": 402,
+        "index": 672
+      }
+    ]
+  }
+}
